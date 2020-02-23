@@ -1,0 +1,12 @@
+".\Objects\main.obj",
+".\Objects\ADC.obj",
+".\Objects\delay.obj",
+".\Objects\EEPROM.obj",
+".\Objects\Exti.obj",
+".\Objects\GPIO.obj",
+".\Objects\PCA.obj",
+".\Objects\Soft_UART.obj",
+".\Objects\timer.obj",
+".\Objects\USART.obj" 
+TO ".\Objects\STC15" 
+PRINT(".\Listings\STC15.m51") RAMSIZE(256) 
